@@ -43,7 +43,7 @@ The types and techniques that will be used are:
 + Equivalence Partitioning
 + Boundary Value Analysis
 + Decision Tables
-+ Positive/Negative Testing
++ Positive/Negative Testing <br>
 Any other techniques that will be necessary will be applied accordingly. 
 
 Tests not in scope:
