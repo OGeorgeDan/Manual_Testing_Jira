@@ -12,6 +12,7 @@ The below stories were created in Jira and describe the functional specification
 Here you can find the release that was created for this project:
 
 ![Epic - Github](https://github.com/OGeorgeDan/Manual_Testing_Jira/assets/149089987/f683afd6-178b-4302-8490-d07dcdbe42bd)
+![Release - GIthub] https://itfclasses.atlassian.net/jira/software/c/projects/ODGT/boards/213/backlog?version=10161&atlOrigin=eyJpIjoiYjdhNjI1MWE0ODYxNGQ1N2I5NmZhMjVlM2M3ZTlhYmMiLCJwIjoiaiJ9
 
 ## Testing process
 The test process was performed based on the standard test process as described below.
