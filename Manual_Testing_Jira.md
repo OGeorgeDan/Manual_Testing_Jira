@@ -11,8 +11,8 @@ The below stories were created in Jira and describe the functional specification
 
 Here you can find the release that was created for this project:
 
-![Epic - Github](https://github.com/OGeorgeDan/Manual_Testing_Jira/assets/149089987/f683afd6-178b-4302-8490-d07dcdbe42bd)
-![Release - GIthub] https://itfclasses.atlassian.net/jira/software/c/projects/ODGT/boards/213/backlog?version=10161&atlOrigin=eyJpIjoiYjdhNjI1MWE0ODYxNGQ1N2I5NmZhMjVlM2M3ZTlhYmMiLCJwIjoiaiJ9
+![Release Jira](https://github.com/OGeorgeDan/Manual_Testing_Jira/assets/149089987/5003e122-c758-4bae-baf1-62741c560719)
+
 
 ## Testing process
 The test process was performed based on the standard test process as described below.
@@ -20,10 +20,12 @@ The test process was performed based on the standard test process as described b
 ### 1.1 Test planning <br>
 The Test Plan is designed to describe all details of testing for the login module for the Emag application.
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here (inserati link catre documentul cu planul de testare)
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here 
+(inserati link catre documentul cu planul de testare)
 
 #### 1.1.1. Roles asigned to the project and persons allocated
 
+Olteanu Dan-George
 + Project manager
 + Product owner
 + Software developer
