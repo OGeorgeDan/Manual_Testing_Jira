@@ -100,7 +100,7 @@ Test cases are executed on the created test Cycle summary: Emag.ro_V1.0
 Bugs have been created based on the failed tests. The complete bug reports can be found here: 
 inserati aici fisierul cu bug-urile pe care le-ati identificat   ???
 
-The following is a summary of the bugs that have been found: **ODGT-19** is tested by **ODGT-20** which creats **ODGT-22** as a font error. 
+The following is a summary of the bugs that have been found: **ODGT-19** is tested by **ODGT-20** which creates **ODGT-22** as a bug due to a font error. 
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
