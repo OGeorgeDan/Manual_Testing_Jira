@@ -78,43 +78,45 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 
 ### 1.3 Test Analysis <br>
-The testing process will be executed based on the application requirements. (The requirements analysis has been done in order to implement the early testing test principle and the results can be found here 
+The testing process will be executed based on the application requirements. The requirements analysis has been done in order to implement the early testing test principle and the results can be found here 
 
-inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review)  ???
+> inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review)  ???
 
 The following test conditions were found:
 
 ![Tests](https://github.com/OGeorgeDan/Manual_Testing_Jira/assets/149089987/7780117e-1508-4d7e-8707-a419d7f5edd7) <br>
 
 ### 1.4 Test Design <br>
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here (inserati linkul catre fisierul cu testele, in format pdf, word sau csv)
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here:
+> (inserati linkul catre fisierul cu testele, in format pdf, word sau csv) - aici nu am stiut exact cum sa le incarc / TBA /
 
 ### 1.5 Test Implementation <br>
 The following elements are needed to be ready before the test execution phase begins:
 
-(inserati lista de elemente care sunt evaluate in etapa de implementare)
+> (inserati lista de elemente care sunt evaluate in etapa de implementare) - la fel nu am stiut ce trebuie sa incarc mai exact / TBA /
 
 ### 1.6. Test Execution <br>
 Test cases are executed on the created test Cycle summary: Emag.ro_V1.0
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: 
-inserati aici fisierul cu bug-urile pe care le-ati identificat   ???
 
-The following is a summary of the bugs that have been found: **ODGT-19** is tested by **ODGT-20** which creates **ODGT-22** as a bug due to a font error. 
+![Issues - Bug](https://github.com/OGeorgeDan/Manual_Testing_Jira/assets/149089987/2ad39058-ba55-425b-9107-147b052a7e14)
 
+The following is a summary of the bugs that have been found: **ODGT-19** is tested by **ODGT-20** which creates **ODGT-22** as a bug due to a font error. <br>
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
 ### 1.7 Test Completion <br> 
-As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
+As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team.
 
-The traceability matrix was generated and can be found here: (inserati aici fie o poza cu matricea de trasabilitate din jira, fie linkul catre fiserul excel exportat din jira cu matricea de trasabilitate. Nu uitati sa faceti filtrare dupa type = story)
+The traceability matrix was generated and can be found here: 
+
+![Traceability Matrix](https://github.com/OGeorgeDan/Manual_Testing_Jira/assets/149089987/aea54aa3-a78e-4a3e-bc20-caf060ef2bd1)
 
 Test execution chart was generated and can be found below.
 
-(inserati aici raportul de executie generat din jira din sectiunea de dashboards)
+![Raport - Dashboards](https://github.com/OGeorgeDan/Manual_Testing_Jira/assets/149089987/f7fca136-568f-4f53-890d-3e27e7148500)
 
-The final report shows that a number (inserati numarul de teste) tests have failed of a total of (inserati numarul de teste)
-
-A number of (inserati numarul de bug-uri) total bugs were found, from which the priority is: (inserati numarul de bug-uri) are high and (inserati numarul de bug-uri) are medium.
+The final report shows that a number 2 tests have failed of a total of 10. <br>
+A number of 1 total bugs were found, from which the priority is: 0 are high and 1 is medium. <br>
 
 (inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)
