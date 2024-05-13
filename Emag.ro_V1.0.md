@@ -22,8 +22,6 @@ The Test Plan is designed to describe all details of testing for the login modul
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here <br>
 
-(inserati link catre documentul cu planul de testare)
-
 #### *1.1.1. Roles asigned to the project and persons allocated*
 
 | USER | Role assigned | 
@@ -59,11 +57,15 @@ The types and techniques that will be used are:
 > Any other techniques that will be necessary will be applied accordingly. 
 
 #### *1.1.5 Risks detected*
-Project risks:
-+ ***No project risks have been identified yet.*** TBA
+Project risks: <br>
++ Political risks regarding testers not respecting deadlines for finalizing testing the elements assigned at the beggining of the project and did not follow-up some defects happening in the middle of the testing phase. <br>
++ Lack of experience of the testers resulted in significant delays for finalizing the project. <br>
++ Lack of an adequate time-management led to delays and dead-ends through out the testing phase. <br>
 
-Product risks:
-+ ***No product risks have been identified yet.*** TBA
+Product risks: <br>
++ Platform has been tested on multiple browsers and operating systems and it runs well, although on mobile apps the platform has a few malfunctions ( long wait time for initializing the homepage, errors in searching applying filters, uncentered font in the contact section, errors in openeing the 'Chat Online' element ) therefore the risk for other users to leave for a different platform where they won't meet the same malfunctions. <br>
++ Sometimes there are a few errors regarding the software when placing a new order ( the verification email is being sent, but the text message does not always arrive at the customer ). <br>
++ There has been a low quality performance due to tests not being ran daily over the product, which may lead to delays regarding detection of new defects.
 
 #### *1.1.6 Evaluating entry criteria*
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
@@ -121,9 +123,9 @@ Test execution chart was generated and can be found below.
 The final report shows that a number 2 tests have failed of a total of 10. <br>
 A number of 1 total bugs were found, from which the priority is: 0 are high and 1 is medium. <br>
 
-During the testing phase 8 stories were created which are under 2 epics. The 1st epic, has as a main goal, the login functionality on the website https://www.emag.ro/ and the submenus and respectively their actions under "Contul meu" section, and the 2nd epic is oriented towards the "Suport Clienti -> Contact" section, located in the footer, checking and testing the functionality of the buttons and that the pages are displayed correctly.
-These 8 stories are followed by 10 test cases, which test different functionalities on the website. 
-From these 8 stories only 6 of them are tested. 
-From the 10 test cases, only 7 are executed. 
+During the testing phase 8 stories were created which are under 2 epics. The 1st epic, has as a main goal, the login functionality on the website https://www.emag.ro/ and the submenus and respectively their actions under "Contul meu" section, and the 2nd epic is oriented towards the "Suport Clienti -> Contact" section, located in the footer, checking and testing the functionality of the buttons and that the pages are displayed correctly. <br>
+These 8 stories are followed by 10 test cases, which test different functionalities on the website. <br>
+From these 8 stories only 6 of them are tested. <br>
+From the 10 test cases, only 7 are executed. <br> 
 One single bug has been identified, with it being a minor bug with a low severity it does not affect the functionality of the platform in any way, it's just a font error in a subsection of the site, although the bug will be solved in the future. 
 
