@@ -26,8 +26,9 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### *1.1.1. Roles asigned to the project and persons allocated*
 
-Olteanu Dan-George
-+ Tester
+| USER | Role assigned | 
+| ---- | -------------- |
+| Olteanu Dan-George | Tester |
 
 #### *1.1.2 Entry criteria defined*
 + Business requirements have been met.
@@ -68,7 +69,7 @@ Product risks:
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
 ### 1.2 Test Monitoring and Control <br>
-(inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. 
+Monitoring and control is a continuous phase that is being done with the purpose of monitoring the project developement and in order to identify any new projects risks that were not identified initially during the planning phase. It was done through generating period test metric reports that showed the progress of the testing process, as seen in the example below:
 
 ![Test Metric 1](https://github.com/OGeorgeDan/Manual_Testing_Jira/assets/149089987/f9e59f11-9dd6-4b4e-8037-f749e948d042)
 
@@ -88,12 +89,13 @@ The following test conditions were found:
 
 ### 1.4 Test Design <br>
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here:
-> (inserati linkul catre fisierul cu testele, in format pdf, word sau csv) - aici nu am stiut exact cum sa le incarc / TBA /
+[Jira - Test file.pdf](https://github.com/OGeorgeDan/Manual_Testing_Jira/files/15297439/Jira.-.Test.file.pdf)
 
 ### 1.5 Test Implementation <br>
 The following elements are needed to be ready before the test execution phase begins:
-
-> (inserati lista de elemente care sunt evaluate in etapa de implementare) - la fel nu am stiut ce trebuie sa incarc mai exact / TBA /
++ Testing environment is up and running.
++ All testing data is obtained.
++ Access has been granted for users. <br>
 
 ### 1.6. Test Execution <br>
 Test cases are executed on the created test Cycle summary: Emag.ro_V1.0
@@ -119,4 +121,9 @@ Test execution chart was generated and can be found below.
 The final report shows that a number 2 tests have failed of a total of 10. <br>
 A number of 1 total bugs were found, from which the priority is: 0 are high and 1 is medium. <br>
 
-(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)
+During the testing phase 8 stories were created which are under 2 epics. The 1st epic, has as a main goal, the login functionality on the website https://www.emag.ro/ and the submenus and respectively their actions under "Contul meu" section, and the 2nd epic is oriented towards the "Suport Clienti -> Contact" section, located in the footer, checking and testing the functionality of the buttons and that the pages are displayed correctly.
+These 8 stories are followed by 10 test cases, which test different functionalities on the website. 
+From these 8 stories only 6 of them are tested. 
+From the 10 test cases, only 7 are executed. 
+One single bug has been identified, with it being a minor bug with a low severity it does not affect the functionality of the platform in any way, it's just a font error in a subsection of the site, although the bug will be solved in the future. 
+
