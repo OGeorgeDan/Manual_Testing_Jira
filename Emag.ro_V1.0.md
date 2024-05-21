@@ -78,9 +78,7 @@ Monitoring and control is a continuous phase that is being done with the purpose
 ![Test Metric 3](https://github.com/OGeorgeDan/Manual_Testing_Jira/assets/149089987/80c29ff2-e875-4196-95f7-47c8e60986d8)
 
 ### 1.3 Test Analysis <br>
-The testing process will be executed based on the application requirements. The requirements analysis has been done in order to implement the early testing test principle and the results can be found here 
-
-> inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review)  ???
+The testing process will be executed based on the application requirements. The requirements analysis has been done in order to implement the early testing test principle.
 
 The following test conditions were found:
 
