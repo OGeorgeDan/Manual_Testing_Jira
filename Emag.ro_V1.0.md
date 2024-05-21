@@ -31,7 +31,6 @@ The plan identifies the items to be tested, the features to be tested, the types
 #### *1.1.2 Entry criteria defined*
 + Business requirements have been met.
 + Roles have been allocated.
-+ Testing environment is up and running.
 
 #### *1.1.3 Exit criteria defined*
 + All the test cases have been executed.
