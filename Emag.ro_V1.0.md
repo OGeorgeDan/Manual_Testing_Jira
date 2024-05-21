@@ -43,8 +43,7 @@ These tests will verify the:
 + login and create a new account functionality and wil also cover reseting the password.
 + the functionality of adding a new card to the account.
 + the functionality of filling a repairing form. 
-
-> These tests will be made only on browser.
+> These tests will be made only on browser. Currently ran and tested on Version 125.0.6422.77 (Official Build) (64-bit)
 
 The types and techniques that will be used are:
 + Functional Testing
@@ -52,7 +51,7 @@ The types and techniques that will be used are:
 + Equivalence Partitioning
 + Boundary Value Analysis
 + Decision Tables
-+ Positive/Negative Testing <br>
++ Positive/Negative Testing
 > Any other techniques that will be necessary will be applied accordingly. 
 
 #### *1.1.5 Risks detected*
@@ -77,7 +76,6 @@ Monitoring and control is a continuous phase that is being done with the purpose
 ![Test Metric 2](https://github.com/OGeorgeDan/Manual_Testing_Jira/assets/149089987/deffc80f-5595-415b-a4bb-f39ca6db939a)
 
 ![Test Metric 3](https://github.com/OGeorgeDan/Manual_Testing_Jira/assets/149089987/80c29ff2-e875-4196-95f7-47c8e60986d8)
-
 
 ### 1.3 Test Analysis <br>
 The testing process will be executed based on the application requirements. The requirements analysis has been done in order to implement the early testing test principle and the results can be found here 
@@ -105,6 +103,8 @@ Bugs have been created based on the failed tests. The complete bug reports can b
 
 ![Issues - Bug](https://github.com/OGeorgeDan/Manual_Testing_Jira/assets/149089987/2ad39058-ba55-425b-9107-147b052a7e14)
 
+![ODGT-22 Bug](https://github.com/OGeorgeDan/Manual_Testing_Jira/assets/149089987/2c334124-8978-4da4-b20e-fd5a4f9fe2b7)
+
 The following is a summary of the bugs that have been found: **ODGT-19** is tested by **ODGT-20** which creates **ODGT-22** as a bug due to a font error. <br>
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
@@ -122,9 +122,10 @@ Test execution chart was generated and can be found below.
 The final report shows that a number 2 tests have failed of a total of 10. <br>
 A number of 1 total bugs were found, from which the priority is: 0 are high and 1 is medium. <br>
 
-During the testing phase 8 stories were created which are under 2 epics. The 1st epic, has as a main goal, the login functionality on the website https://www.emag.ro/ and the submenus and respectively their actions under "Contul meu" section, and the 2nd epic is oriented towards the "Suport Clienti -> Contact" section, located in the footer, checking and testing the functionality of the buttons and that the pages are displayed correctly. <br>
-These 8 stories are followed by 10 test cases, which test different functionalities on the website. <br>
-From these 8 stories only 6 of them are tested. <br>
-From the 10 test cases, only 7 are executed. <br> 
-One single bug has been identified, with it being a minor bug with a low severity it does not affect the functionality of the platform in any way, it's just a font error in a subsection of the site, although the bug will be solved in the future. 
+During the testing phase _**8 stories**_ were created which are under _**2 epics**_. The _**1st epic**_, has as a main goal, the login functionality on the website https://www.emag.ro/ and the submenus and respectively their actions under "Contul meu" section, and the _**2nd epic**_ is oriented towards the "Suport Clienti -> Contact" section, located in the footer, checking and testing the functionality of the buttons and that the pages are displayed correctly. <br>
+>
+> - These 8 stories are followed by 10 test cases, which test different functionalities on the website. <br>
+> - From these 8 stories only 6 of them are tested. <br>
+> - From the 10 test cases, only 7 are executed. <br> 
+> - One single bug has been identified, with it being a minor bug with a low severity it does not affect the functionality of the platform in any way, it's just a font error in a subsection of the site, although the bug will be solved in the future. 
 
